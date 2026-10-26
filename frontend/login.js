@@ -1,4 +1,4 @@
-const AUTH_URL = 'http://localhost:3000/api/auth/login';
+const AUTH_URL = 'https://blog-api-backend-71br.onrender.com/';
 
 const loginForm = document.getElementById('login-form');
 const errorMessage = document.getElementById('error-message');

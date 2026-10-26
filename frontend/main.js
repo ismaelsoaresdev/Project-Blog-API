@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/posts';
+const API_URL = 'https://blog-api-backend-71br.onrender.com/';
 
 async function fetchPosts() {
     const container = document.getElementById('posts-container');
