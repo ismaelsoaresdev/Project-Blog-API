@@ -1,4 +1,4 @@
-const AUTH_URL = 'https://blog-api-backend-71br.onrender.com/';
+const AUTH_URL = 'https://blog-api-backend-71br.onrender.com/api/auth/login';
 
 const loginForm = document.getElementById('login-form');
 const errorMessage = document.getElementById('error-message');
